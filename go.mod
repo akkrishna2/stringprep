@@ -1,5 +1,5 @@
-module github.com/xdg-go/stringprep
+module github.com/akkrishna2/stringprep
 
-go 1.11
+go 1.23
 
-require golang.org/x/text v0.3.8
+require golang.org/x/text v0.22.0
