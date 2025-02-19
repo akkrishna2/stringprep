@@ -10,7 +10,6 @@
     import "github.com/akkrishna2/stringprep"
 
     prepped := stringprep.SASLprep.Prepare("TrustNô1")
-
 ```
 
 ## Description
