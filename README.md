@@ -1,13 +1,13 @@
-[![Go Reference](https://pkg.go.dev/badge/github.com/akkrishna2/stringprep.svg)](https://pkg.go.dev/github.com/akkrishna2/stringprep)
-[![Go Report Card](https://goreportcard.com/badge/github.com/akkrishna2/stringprep)](https://goreportcard.com/report/github.com/akkrishna2/stringprep)
-[![Github Actions](https://github.com/akkrishna2/stringprep/actions/workflows/test.yml/badge.svg)](https://github.com/akkrishna2/stringprep/actions/workflows/test.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/xdg-go/stringprep.svg)](https://pkg.go.dev/github.com/xdg-go/stringprep)
+[![Go Report Card](https://goreportcard.com/badge/github.com/xdg-go/stringprep)](https://goreportcard.com/report/github.com/xdg-go/stringprep)
+[![Github Actions](https://github.com/xdg-go/stringprep/actions/workflows/test.yml/badge.svg)](https://github.com/xdg-go/stringprep/actions/workflows/test.yml)
 
 # stringprep – Go implementation of RFC-3454 stringprep and RFC-4013 SASLprep
 
 ## Synopsis
 
 ```
-    import "github.com/akkrishna2/stringprep"
+    import "github.com/xdg-go/stringprep"
 
     prepped := stringprep.SASLprep.Prepare("TrustNô1")
 ```

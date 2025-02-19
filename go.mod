@@ -1,4 +1,4 @@
-module github.com/akkrishna2/stringprep
+module github.com/xdg-go/stringprep
 
 go 1.23
 
